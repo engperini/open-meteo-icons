@@ -1,0 +1,338 @@
+{
+    "0": {
+        "1": {
+            "description": "Sunny",
+            "image": "0d",
+            "big_image": "0d_big"
+        },
+        "0": {
+            "description": "Clear",
+            "image": "0n",
+            "big_image": "0n_big"
+        }
+    },
+    "1": {
+        "1": {
+            "description": "Mainly Sunny",
+            "image": "1d",
+            "big_image": "1d_big"
+        },
+        "0": {
+            "description": "Mainly Clear",
+            "image": "1n",
+            "big_image": "1n_big"
+        }
+    },
+    "2": {
+        "1": {
+            "description": "Partly Cloudy",
+            "image": "2d",
+            "big_image": "2d_big"
+        },
+        "0": {
+            "description": "Partly Cloudy",
+            "image": "2n",
+            "big_image": "2n_big"
+        }
+    },
+    "3": {
+        "1": {
+            "description": "Cloudy",
+            "image": "3d",
+            "big_image": "3d_big"
+        },
+        "0": {
+            "description": "Cloudy",
+            "image": "3n",
+            "big_image": "3n_big"
+        }
+    },
+    "45": {
+        "1": {
+            "description": "Foggy",
+            "image": "45d",
+            "big_image": "45d_big"
+        },
+        "0": {
+            "description": "Foggy",
+            "image": "45n",
+            "big_image": "45n_big"
+        }
+    },
+    "48": {
+        "1": {
+            "description": "Rime Fog",
+            "image": "48d",
+            "big_image": "48d_big"
+        },
+        "0": {
+            "description": "Rime Fog",
+            "image": "48n",
+            "big_image": "48n_big"
+        }
+    },
+    "51": {
+        "1": {
+            "description": "Light Drizzle",
+            "image": "51d",
+            "big_image": "51d_big"
+        },
+        "0": {
+            "description": "Light Drizzle",
+            "image": "51n",
+            "big_image": "51n_big"
+        }
+    },
+    "53": {
+        "1": {
+            "description": "Drizzle",
+            "image": "53d",
+            "big_image": "53d_big"
+        },
+        "0": {
+            "description": "Drizzle",
+            "image": "53n",
+            "big_image": "53n_big"
+        }
+    },
+    "55": {
+        "1": {
+            "description": "Heavy Drizzle",
+            "image": "55d",
+            "big_image": "55d_big"
+        },
+        "0": {
+            "description": "Heavy Drizzle",
+            "image": "55n",
+            "big_image": "55n_big"
+        }
+    },
+    "56": {
+        "1": {
+            "description": "Light Freezing Drizzle",
+            "image": "56d",
+            "big_image": "56d_big"
+        },
+        "0": {
+            "description": "Light Freezing Drizzle",
+            "image": "56n",
+            "big_image": "56n_big"
+        }
+    },
+    "57": {
+        "1": {
+            "description": "Freezing Drizzle",
+            "image": "57d",
+            "big_image": "57d_big"
+        },
+        "0": {
+            "description": "Freezing Drizzle",
+            "image": "57n",
+            "big_image": "57n_big"
+        }
+    },
+    "61": {
+        "1": {
+            "description": "Light Rain",
+            "image": "61d",
+            "big_image": "61d_big"
+        },
+        "0": {
+            "description": "Light Rain",
+            "image": "61n",
+            "big_image": "61n_big"
+        }
+    },
+    "63": {
+        "1": {
+            "description": "Rain",
+            "image": "63d",
+            "big_image": "63d_big"
+        },
+        "0": {
+            "description": "Rain",
+            "image": "63n",
+            "big_image": "63n_big"
+        }
+    },
+    "65": {
+        "1": {
+            "description": "Heavy Rain",
+            "image": "65d",
+            "big_image": "65d_big"
+        },
+        "0": {
+            "description": "Heavy Rain",
+            "image": "65n",
+            "big_image": "65n_big"
+        }
+    },
+    "66": {
+        "1": {
+            "description": "Light Freezing Rain",
+            "image": "66d",
+            "big_image": "66d_big"
+        },
+        "0": {
+            "description": "Light Freezing Rain",
+            "image": "66n",
+            "big_image": "66n_big"
+        }
+    },
+    "67": {
+        "1": {
+            "description": "Freezing Rain",
+            "image": "67d",
+            "big_image": "67d_big"
+        },
+        "0": {
+            "description": "Freezing Rain",
+            "image": "67n",
+            "big_image": "67n_big"
+        }
+    },
+    "71": {
+        "1": {
+            "description": "Light Snow",
+            "image": "71d",
+            "big_image": "71d_big"
+        },
+        "0": {
+            "description": "Light Snow",
+            "image": "71n",
+            "big_image": "71n_big"
+        }
+    },
+    "73": {
+        "1": {
+            "description": "Snow",
+            "image": "73d",
+            "big_image": "73d_big"
+        },
+        "0": {
+            "description": "Snow",
+            "image": "73n",
+            "big_image": "73n_big"
+        }
+    },
+    "75": {
+        "1": {
+            "description": "Heavy Snow",
+            "image": "75d",
+            "big_image": "75d_big"
+        },
+        "0": {
+            "description": "Heavy Snow",
+            "image": "75n",
+            "big_image": "75n_big"
+        }
+    },
+    "77": {
+        "1": {
+            "description": "Snow Grains",
+            "image": "77d",
+            "big_image": "77d_big"
+        },
+        "0": {
+            "description": "Snow Grains",
+            "image": "77n",
+            "big_image": "77n_big"
+        }
+    },
+    "80": {
+        "1": {
+            "description": "Light Showers",
+            "image": "80d",
+            "big_image": "80d_big"
+        },
+        "0": {
+            "description": "Light Showers",
+            "image": "80n",
+            "big_image": "80n_big"
+        }
+    },
+    "81": {
+        "1": {
+            "description": "Showers",
+            "image": "81d",
+            "big_image": "81d_big"
+        },
+        "0": {
+            "description": "Showers",
+            "image": "81n",
+            "big_image": "81n_big"
+        }
+    },
+    "82": {
+        "1": {
+            "description": "Heavy Showers",
+            "image": "82d",
+            "big_image": "82d_big"
+        },
+        "0": {
+            "description": "Heavy Showers",
+            "image": "82n",
+            "big_image": "82n_big"
+        }
+    },
+    "85": {
+        "1": {
+            "description": "Light Snow Showers",
+            "image": "85d",
+            "big_image": "85d_big"
+        },
+        "0": {
+            "description": "Light Snow Showers",
+            "image": "85n",
+            "big_image": "85n_big"
+        }
+    },
+    "86": {
+        "1": {
+            "description": "Snow Showers",
+            "image": "86d",
+            "big_image": "86d_big"
+        },
+        "0": {
+            "description": "Snow Showers",
+            "image": "86n",
+            "big_image": "86n_big"
+        }
+    },
+    "95": {
+        "1": {
+            "description": "Thunderstorm",
+            "image": "95d",
+            "big_image": "95d_big"
+        },
+        "0": {
+            "description": "Thunderstorm",
+            "image": "95n",
+            "big_image": "95n_big"
+        }
+    },
+    "96": {
+        "1": {
+            "description": "Light Thunderstorms With Hail",
+            "image": "96d",
+            "big_image": "96d_big"
+        },
+        "0": {
+            "description": "Light Thunderstorms With Hail",
+            "image": "96n",
+            "big_image": "96n_big"
+        }
+    },
+    "99": {
+        "1": {
+            "description": "Thunderstorm With Hail",
+            "image": "99d",
+            "big_image": "99d_big"
+        },
+        "0": {
+            "description": "Thunderstorm With Hail",
+            "image": "99n",
+            "big_image": "99n_big"
+        }
+    }
+}
